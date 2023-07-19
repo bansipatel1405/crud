@@ -1,0 +1,63 @@
+{
+  "details": [
+    {
+      "id": 2,
+      "name": "bansi",
+      "email": "zalavadiyabansi200@gmail.com",
+      "PhoneNumber": 9925803082,
+      "Marks": 45,
+      "pass": true
+    },
+    {
+      "id": 4,
+      "name": "bani",
+      "email": "zalavadiyabansi200@gmail.com",
+      "PhoneNumber": "2598412874156",
+      "Marks": "12",
+      "pass": "true"
+    },
+    {
+      "name": "bansui",
+      "PhoneNumber": "9925803082",
+      "Marks": "12",
+      "pass": "true",
+      "email": "8918dharam@gmail.com",
+      "passFail": "Pass",
+      "id": 5,
+      "PhonNumber": "99258030824"
+    },
+    {
+      "name": "bansi",
+      "PhoneNumber": "2589631470",
+      "Marks": "98",
+      "pass": "true",
+      "passFail": "Pass",
+      "email": "zalavadiya@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "bani",
+      "PhoneNumber": "2589631401",
+      "Marks": "12",
+      "pass": "Fail",
+      "email": "8918dharam@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "bani",
+      "PhoneNumber": "9925803082",
+      "Marks": "56",
+      "pass": "Pass",
+      "email": "8918dharam@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "bani",
+      "PhoneNumber": "9925803082",
+      "Marks": "12",
+      "pass": "Fail",
+      "email": "8918dharam@gmail.com",
+      "id": 9
+    }
+  ]
+}
